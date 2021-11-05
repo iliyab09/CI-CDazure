@@ -16,4 +16,8 @@ CI pipeline should trigger automatically on every commit
 
 ![trigger](https://user-images.githubusercontent.com/16802411/139965879-ea889dcb-8e5e-45fe-857f-662d8977a18b.png)
 
-Use the Ansible and Terraforn playbooks ans code from ->https://github.com/iliyab09/TerraformForAzure-IaC nad here ->https://github.com/iliyab09/StagingProductionPlaybooks to deploy the application
+Use the Ansible and Terraforn playbooks ans code from</br>
+
+-> https://github.com/iliyab09/TerraformForAzure-IaC </br>
+and here</br>
+->https://github.com/iliyab09/StagingProductionPlaybooks to deploy the application
