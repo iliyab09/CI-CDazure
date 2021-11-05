@@ -20,4 +20,5 @@ Use the Ansible and Terraforn playbooks ans code from</br>
 
 -> https://github.com/iliyab09/TerraformForAzure-IaC </br>
 and here</br>
-->https://github.com/iliyab09/StagingProductionPlaybooks to deploy the application
+->https://github.com/iliyab09/StagingProductionPlaybooks</br>
+to deploy the application
