@@ -20,5 +20,5 @@ Use the Ansible and Terraforn playbooks ans code from</br>
 
 -> https://github.com/iliyab09/TerraformForAzure-IaC </br>
 and here</br>
-->https://github.com/iliyab09/cpnfuguration_management</br>
+->https://github.com/iliyab09/confuguration_management</br>
 to deploy the application
