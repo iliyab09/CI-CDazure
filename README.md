@@ -10,8 +10,10 @@ Use Azure Artifacts to store your build Artifacts
 
 Configure your CD pipeline to deploy to Staging and Production Continuous Deployment
 
-![workflow](https://user-images.githubusercontent.com/16802411/139965615-f86f263a-067e-40f3-89d4-15804f0c0198.png)
+![CDpipeline](https://user-images.githubusercontent.com/16802411/140539181-d07f46c9-4b3c-4411-bb4c-ecc33e31bffe.png)
 
 CI pipeline should trigger automatically on every commit
 
 ![trigger](https://user-images.githubusercontent.com/16802411/139965879-ea889dcb-8e5e-45fe-857f-662d8977a18b.png)
+
+Use the Ansible and Terraforn playbooks ans code from ->https://github.com/iliyab09/TerraformForAzure-IaC nad here ->https://github.com/iliyab09/StagingProductionPlaybooks to deploy the application
